@@ -1,0 +1,1 @@
+SELECT * FROM `dbt-analytics-384418.dbt_learning_data.Transaction`
